@@ -1,0 +1,31 @@
+* {
+    background: #03011C;
+    font-family: monospace;
+}
+a {
+    color: cornflowerblue;
+}
+h1, h2 {
+    color: dodgerblue;
+}
+h3 {
+    color: #FFFFFF;
+}
+button {
+    background-color: deepskyblue;
+    padding: 20px;
+}
+th {
+    color: #4a90ff;
+    font-size: 23px;
+    padding-top: 30px;
+}
+td {
+    font-weight: 1000;
+    font-size: 20px;
+    color: #85b4ff;
+    padding: 20px 50px 20px 30px;
+}
+th, td {
+    border-bottom: 1px solid #dbdbdb;
+}
